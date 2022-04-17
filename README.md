@@ -14,3 +14,7 @@ pip3 freeze
 ```
 mkdir python
 ```
+
+```
+zip -r python.zip python
+```
